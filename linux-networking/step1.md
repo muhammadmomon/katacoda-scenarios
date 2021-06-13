@@ -1,2 +1,2 @@
 ## Test
-`ping localhost`{{execute}}
+`ping google.com`{{execute}}
