@@ -1,17 +1,35 @@
 
 <pre>
->>Q1: Enter the extract string test<<
-=== test
+>>What command you can use to check connection between two host? <<
+( ) host
+(*) ping
 
->>Q2: Enter the string containing test<<
-=~= test
+>>What is netstat stands for <<
+(*) Network Statistics
+( ) Network Status
 
->>Q3: Multiple Choice <<
-[*] Correct
-[*] Correct
-[ ] Incorrect
+>>Which is/are the function of command dig: <<
+[ ] To discover network issues
+[*] Searching for a domain name
+[*] To gather and display DNS information 
+[ ] To configure network interfaces
+[ ] To show the IP routing table
 
->>Q4: Single Choice <<
-(*) Correct
-( ) Incorrect
+>>You can edit file /ETC/NSSWITCH.CONF using nano. <<
+(*) True
+( ) False
+
+>>Which is/are the function of command dig: <<
+[ ] To discover network issues
+[*] Searching for a domain name
+[*] To gather and display DNS information 
+[ ] To configure network interfaces
+[ ] To show the IP routing table
+
+>>Which one is/are not include in three modes of network bonding: <<
+[ ] Link Aggregation
+[*] Network Integration
+[ ] Active/Passive
+[ ] Load Balancing
+
 </pre>
