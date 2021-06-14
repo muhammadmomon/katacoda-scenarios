@@ -19,4 +19,18 @@ Run dig command to analyse a DNS issue:
 Run host command to know the ip adress of the google:
 `host google.com`{{execute}}
 
+## Quiz 1
+>>What command you can use to check connection between two host? <<
+( ) host
+(*) ping
 
+>>What is netstat stands for <<
+(*) Network Statistics
+( ) Network Status
+
+>>Which is/are the function of command dig: <<
+[ ] To discover network issues
+[*] Searching for a domain name
+[*] To gather and display DNS information 
+[ ] To configure network interfaces
+[ ] To show the IP routing table
