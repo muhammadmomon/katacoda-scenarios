@@ -51,7 +51,7 @@ Verify now the hostname had been changed to lab01, using the command below:
 [ ] To configure network interfaces
 [ ] To show the IP routing table
 
->>You can edit file /ETC/NSSWITCH.CONF using nano. <<
+>>You can edit file /etc/nsswitch.conf using nano. <<
 (*) True
 ( ) False
 
