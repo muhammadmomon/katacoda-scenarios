@@ -45,7 +45,7 @@ Verify now the hostname had been changed to lab01, using the command below:
 
 >>You can edit file /ETC/NSSWITCH.CONF using nano. <<
 (*) True
-() False
+( ) False
 
 >>Which one is/are not include in three modes of network bonding? <<
 [ ]Link Aggregation
