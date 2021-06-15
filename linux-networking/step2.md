@@ -13,7 +13,7 @@ Run ss -a list all listening and non-listening connections:
 ## Test "nmcli"
 Run nmcli device show command to get complete information about known devices:
 `nmcli device show`{{execute}}
-
+Press q to quit the display
 ## Test "brctl"
 Run brctl show command to show ethernet bridge:
 `brctl show`{{execute}}
