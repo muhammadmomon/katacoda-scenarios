@@ -23,9 +23,3 @@ Choose "Set system hostname", change the hostname to lab01, choose OK, and Quit.
 Verify now the hostname had been changed to lab01, using the command below:
 `hostname`{{execute}}
 
-## Quiz 1
->>What command you can use to check connection between two host? <<
-( ) host
-(*) ping
-<pre>
-
