@@ -43,11 +43,11 @@ Verify now the hostname had been changed to lab01, using the command below:
 [ ] To configure network interfaces
 [ ] To show the IP routing table
 
->>You can edit file /ETC/NSSWITCH.CONF using nano.
+>>You can edit file /ETC/NSSWITCH.CONF using nano. <<
 (*) True
 () False
 
->>Which one is/are not include in three modes of network bonding?
+>>Which one is/are not include in three modes of network bonding? <<
 [ ]Link Aggregation
 [*]Network Integration
 [ ]Active/Passive
