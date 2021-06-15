@@ -6,12 +6,20 @@ Run command below to show the IP routing table:
 Run command below to know the ip adress and interfaces:
 `ip link show`{{execute}}
 
+## Test "ethtool"
+Install tool first by typing command below:
+`apt install ethtool`{{execute}}
+then we need to check existing network interface by running command:
+`ifconfig -a`{{execute}} 
+then we choose one of them (e.g. ens3) after that we can run command below to check its current Speed, Auto-Negotiation, and Duplex mode settings:
+`ethtool ens3`{{execute}}
+
 ## Test "ss"
 Run command below to list all listening and non-listening connections:
 `ss -a`{{execute}}
 
 ## Test "iwconfig"
-Install first by typing command below:
+Install tools first by typing command below:
 `apt install wireless-tools`{{execute}}
 then Run command below to show existing ethernet bridge:
 `iwconfig`{{execute}}
