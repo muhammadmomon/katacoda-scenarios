@@ -4,8 +4,8 @@ Run ping command to check if your internet is working:
 <pre>to stop/interrupt ping 👉 Ctrl+C. </pre>
 
 ## Test "netstat"
-Run netstat -tulp command to check open port:
-`netstat -tulp`{{execute}}
+Run netstat -tulpn command to check open port:
+`netstat -tulpn`{{execute}}
 
 ## Test "nslookup"
 Run nslookup command to know the ip address of the google:
