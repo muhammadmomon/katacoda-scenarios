@@ -43,26 +43,26 @@ Verify now the hostname had been changed to lab01, using the command below:
 `hostname`{{execute}}
 
 
-## View "etc/hosts"
-Run command below to view content of "etc/hosts":
-`cat etc/hosts`{{execute}}
+## View "/etc/hosts"
+Run command below to view content of "/etc/hosts":
+`cat /etc/hosts`{{execute}}
 
-## View "etc/networks"
-Run command below to view content of "etc/networks":
-`cat etc/networks`{{execute}}
+## View "/etc/networks"
+Run command below to view content of "/etc/networks":
+`cat /etc/networks`{{execute}}
 
-## View "etc/nsswitch.conf"
-Run command below to view content of "etc/nsswitch.conf":
-`cat etc/nsswitch.conf`{{execute}}
+## View "/etc/nsswitch.conf"
+Run command below to view content of "/etc/nsswitch.conf":
+`cat /etc/nsswitch.conf`{{execute}}
 
-## View "etc/resolv.conf"
-Run command below to view content of "etc/resolv.conf":
-`cat etc/resolv.conf`{{execute}}
+## View "/etc/resolv.conf"
+Run command below to view content of "/etc/resolv.conf":
+`cat /etc/resolv.conf`{{execute}}
 
 
-## View "etc/sysctl.conf"
-Run command below to view content of "etc/sysctl.conf":
-`cat etc/sysctl.conf`{{execute}}
+## View "/etc/sysctl.conf"
+Run command below to view content of "/etc/sysctl.conf":
+`cat /etc/sysctl.conf`{{execute}}
 
 ## Quiz
 >>What command you can use to check connection between two host? <<
